@@ -1,0 +1,95 @@
+program Design, Algorithm, Pseucode, and IOP
+1. Create a busic application
+your  6 your old client needs an application that will receive an integer from the user banging on the keyboard, add 5 to it, double it, subtract it, and display the result to the screen.
+A) Define the problem by constracting an algorithm using pseudocode
+Algorithm: result = X+5*2-7
+pseudocode:
+1.Prompt user for numerical input
+2.Get "x" our numerical input
+3.Apply algorithm specified (X+5*2-7)
+4.Output result
+B) Create an IPO diagram showing input, output, and processing step
+Input:numberinput, value from the user
+Process: apply the algorithm (result = X+5*2-7)
+Output: result
+C) what control structures (sequence, selction, reputation)
+sequence
+D)What variables are required?
+input variable (numberInput) and output variable result
+F)Show a check of your solution with test data for at least two valid test case
+numberInput = 5
+result = (5+5)*2-7=13
+numberInput=10
+result = (10+5)*2-7=33
+2.His little sister now wants a program to read three numbers, add them together and print their total.
+Algorithm: result = X+Y+Z
+pseudocode:
+1. Prompt user for numerical input(3)
+2.Get "x,y,z" our numerical input
+3.Apply algorithm specified (X+Y+Z)
+4.Output result
+B) Create an IPO diagram showing input, output, and processing step
+Input: numericcal value(result)
+Process:   X+Y+Z
+Output: result
+C) what control structures (sequence, selction, reputation)
+sequence
+D)What variables are required?
+1stNumberInput
+2ndNumberInput
+3rdNumberInput
+F)Show a check of your solution with test data for at least two valid test case
+numberInput = 1,2,3
+result = 1+2+3=6
+numberInput=3,4,5
+result = 3+4+5=12
+3. A program is needed to prompt the user operator for ten exam scores, calculate the average score and display the result to the screen. The average score is calculated as the sum of the scores divided by the number of scores.
+Algorithm: result= average score = Sum scores/10
+pseudocode:
+1. Prompt user for score  ten times
+2.add all the sum score
+3.Get "Sum scores" our numerical input
+4.Apply algorithm specified (Sum scores/10)
+5.Output result
+B) Create an IPO diagram showing input, output, and processing step
+Input:numberinput, value from the user
+Process: apply the algorithm (average score = Sum scores/10)
+Output: result
+C) what control structures (sequence, selction, reputation)
+sequence
+reputation
+D)What variables are required?
+input variable (numberInput) and output variable result
+F)Show a check of your solution with test data for at least two valid test case
+numberInput = sum scores= 30
+result = 30/10=3
+numberInput= sum scores= 60
+result = 60/10=6
+4. How much water runs off a roof in a rain storm?
+
+To calculate the runoff from any given rainfall: Take the dimensions of the footprint of the roof and convert them to inches. (So, a 50' x 20' roof is 600" x 240"). Multiply the roof dimensions by the number of inches of rainfall. In this example, 600" x 240" x 1" = 144,000 cubic inches of water. Divide that result by 231 to get the number of gallons (because 1 gallon = 231 cubic inches). (144,000/231 = 623.38).
+Algorithm: result=(_X*1.57)*(y*1.57)= J
+                 result2=(J*I)/231
+ 600" *240" *1"=144,000 cubic inches
+         : result1=result/231
+pseudocode:
+1. Prompt user for numerical input
+2.get dimention footprint of roof = x,y,
+3.Conver to inches L= x*1.57 and M=y*1.57 
+4.Get "inches of rain" our numerical input = I
+5.multiply t
+3.Apply algorithm specified (Sum scores/10)
+4.Output result
+B) Create an IPO diagram showing input, output, and processing step
+Input:numberinput, value from the user
+Process: apply the algorithm 
+Output: 
+C) what control structures (sequence, selction, reputation)
+sequence
+D)What variables are required?
+input variable (numberInput) and output variable result
+F)Show a check of your solution with test data for at least two valid test case
+numberInput 
+result 
+numberInput 
+result 
